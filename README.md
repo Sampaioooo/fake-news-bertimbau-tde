@@ -1,5 +1,7 @@
-# Fake News BERTimbau TDE
+## Como abrir o notebook
 
-Projeto de TDE da disciplina Fundamentos de Ciência de Dados.
+Caso a pré-visualização do GitHub apresente erro, o notebook pode ser aberto diretamente no Google Colab pelo botão abaixo ou baixado pelo repositório.
 
-Este projeto utiliza o modelo BERTimbau para classificação de notícias falsas e verdadeiras em português brasileiro.
+Arquivo principal:
+
+notebooks/fake_news_bertimbau.ipynb
